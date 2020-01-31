@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aihemuzid.yuziblog.top/sitemap.xml
